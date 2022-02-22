@@ -1,2 +1,2 @@
-# Programming language
-C, Pascal, Prolog, Scheme projects
+# Programming language C
+C projects
